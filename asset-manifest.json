@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plan_with_rohit/static/css/main.99a946db.css",
+    "main.js": "/plan_with_rohit/static/js/main.8ed54bd5.js",
+    "static/js/787.8dfb54a2.chunk.js": "/plan_with_rohit/static/js/787.8dfb54a2.chunk.js",
+    "index.html": "/plan_with_rohit/index.html",
+    "main.99a946db.css.map": "/plan_with_rohit/static/css/main.99a946db.css.map",
+    "main.8ed54bd5.js.map": "/plan_with_rohit/static/js/main.8ed54bd5.js.map",
+    "787.8dfb54a2.chunk.js.map": "/plan_with_rohit/static/js/787.8dfb54a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a946db.css",
+    "static/js/main.8ed54bd5.js"
+  ]
+}
